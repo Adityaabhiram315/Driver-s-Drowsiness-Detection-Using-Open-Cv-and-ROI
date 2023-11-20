@@ -1,4 +1,4 @@
-# DriverDrowsinessDetection-using-openCV-
+# DriverDrowsinessDetection-using-openCV-ROI
 This code is a Python script that uses computer vision techniques and deep learning to monitor a person's eyes for drowsiness detection. It uses OpenCV, Keras, and Pygame libraries.
 
 *******Step wise explanation of the code in Driver Drowsiness Detection.py file********
